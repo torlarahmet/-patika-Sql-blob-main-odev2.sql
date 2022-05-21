@@ -1,0 +1,1 @@
+# -patika-Sql-blob-main-odev2.sql
